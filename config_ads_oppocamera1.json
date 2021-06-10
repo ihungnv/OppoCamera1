@@ -1,0 +1,61 @@
+{
+  "AppConfig": {
+    "APP_NAME": "Oppo Reno5 Camera",
+    "PKG_NAME": "com.oppo.reno5.expert.selfie.camera",
+    "VER_CODE": 1,
+    "VER_NAME": "1.2.1",
+    "COMPULSORY": 0,
+    "ADS_TYPE": 1,
+    "ADS_ENABLE": 1,
+    "FIRST_SHOW": 3,
+    "NEXT_SHOW": 8,
+    "ABOUT1": "- App Pro",
+    "ABOUT2": "- No Ads",
+    "ABOUT3": "- Free Function"
+  },
+  "NotiInfo": {
+    "STATUS": 1,
+    "HOUR": "9",
+    "MINUTE": "0",
+    "TITLE": "❤Have a nice day!!",
+    "CONTENT": "Let’s take selfies with beautiful features, filters, and stickers!!!"
+  },
+  "Admob": {
+    "APP_ID": "ca-app-pub-3940256099942544~3347511713",
+    "AD_UNIT": {
+      "full_start_app": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_camera": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_video": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_sticker": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_store": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_gallery": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_cutout": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_instagram": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_beautify": "ca-app-pub-3940256099942544/1033173712",
+      "full_homepage_click_edit": "ca-app-pub-3940256099942544/1033173712",
+      "native_main": "ca-app-pub-3940256099942544/2247696110"
+    }
+  },
+  "AppMoreInfo": [
+     {      
+	  "APPMORE_NAME": "Oppo Reno5 Camera",
+      "PKG_NAME": "com.selfie.expert.camera.oppo.reno",
+      "URL_ICON": "https://bit.ly/3c2o3Kw",
+      "URL_COVER": "https://bit.ly/3vI4bUQ",
+      "SHORT_DES": "Camera for Oppo Reno5 is Selfie Expert Camera with Beauty Filters & effects",
+      "DOWNLOAD": "100K+",
+      "RATING": "4.8",
+      "SIZE": "13MB"
+    },
+    {
+      "APPMORE_NAME": "Oppo Camera 2021",
+      "PKG_NAME": "com.oppo.reno5.expert.selfie.camera",
+      "URL_ICON": "https://bit.ly/3tkSVNv",
+      "URL_COVER": "https://bit.ly/3pOT0XB",
+      "SHORT_DES": "Oppo Reno 5 Camera is Selfie Expert Camera with amazing filters & AR stickers",
+      "DOWNLOAD": "100K+",
+      "RATING": "4.8",
+      "SIZE": "30MB"
+    }
+  ]
+}
